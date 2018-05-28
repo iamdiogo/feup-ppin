@@ -12,6 +12,7 @@ Yes, this is a repository for a class that has nothing to do with computer scien
  * Recommended approach: solve previous year's
  * Previous tests:
      * [2017/2018 versão A](17-18/test2_a.md)
+     * [2017/2018 versão B](17-18/test2_b.md)
  
 
 # Contributing

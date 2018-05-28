@@ -15,3 +15,7 @@ Responder a **2** das **3** seguintes questões:
  2. O **planeamento diário** refere-se à organização eficaz do tempo imediatamente disponível. Refirer que metodologia de gestão de tempo adotar para melhorar o seu planeamento diário, explicando que procedimentos aplicaria e justificando as opções.
  3. Descrever os **estádios de desenvolvimento de uma equipa**, dando exemplos práticos que ilustrem cada um deles. Pode usar o projeto de ppin como exemplo. 
  4. Atualmente, é comum ouvir que não basta _ser_ mas tambm é preciso _parecer_ um bom profissional. Que implicações tem esta perspetiva para o seu futuro **micro-marketing**.
+
+
+
+[back](https://github.com/msramalho/feup-ppin)

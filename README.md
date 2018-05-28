@@ -9,7 +9,7 @@ Yes, this is a repository for a class that has nothing to do with computer scien
  
 # Second Minitest
  * Handwritten
- * Recommended approach: solve previous years
+ * Recommended approach: solve previous year's
  
 
 # Contributing

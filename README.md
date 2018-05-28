@@ -10,6 +10,8 @@ Yes, this is a repository for a class that has nothing to do with computer scien
 # Second Minitest
  * Handwritten
  * Recommended approach: solve previous year's
+ * Previous tests:
+     * [2017/2018 versão A](17-18/test2_a.md)
  
 
 # Contributing

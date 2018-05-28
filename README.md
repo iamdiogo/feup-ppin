@@ -16,4 +16,4 @@ Yes, this is a repository for a class that has nothing to do with computer scien
  
 
 # Contributing
-Any usefull PRs are welcome (by next year _pepinos_)
+Any usefull PRs are welcome (by next year _pepinos_). If you remember any question from previous years, you are welcome to make a PR respecting the folder structure and file naming conventions in place.

@@ -8,7 +8,7 @@ Responder a **2** das **3** seguintes questões:
  
 
  ## Segunda parte
- #### (igual à [versão A](17-18/test2_a.md))
+ #### (igual à [versão A](test2_a.md))
  Responder a **1** das **4** seguintes questões:
  
  1. Relembrar ou imaginar um relacionamento interpessoal que tenha tido um significativo (in)sucesso. Analise-o através das **atitudes comunicacionais**, **regras de comunicação**, e dos signos de **linguagem não verbal**, explicando os seus efeitos sobre os resultados alcançados. Elaborando as conclusões numa perspetiva do _saber-fazer_, procurando identificar os progressos pessoais a realizar no futuro, ao nível da comunicação, de forma a garantir uma maior eficácia das suas competências interpessoais. 
